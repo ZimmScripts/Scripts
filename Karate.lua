@@ -1,2 +1,1 @@
-while true do
-  end
+game:GetService("MemStorageService"):GetTable()
